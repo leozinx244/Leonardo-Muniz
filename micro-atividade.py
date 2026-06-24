@@ -1,25 +1,4 @@
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/leozinx244/Leonardo-Muniz/blob/main/Conhe%C3%A7a_o_Colab.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "Wf5KrEb6vrkR"
-      },
-      "source": [
-        "# Conheça o Colab"
-      ]
-    },
-    {
+     {
       "cell_type": "code",
       "source": [
         "import csv\n",
